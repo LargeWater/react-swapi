@@ -1,3 +1,4 @@
+import '../../App.css';
 import { useState, useEffect } from "react";
 import { getAllStarships } from "../../services/sw-api";
 import { Link } from "react-router-dom";
